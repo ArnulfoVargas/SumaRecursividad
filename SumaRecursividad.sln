@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SumaRecursividad", "SumaRecursividad\SumaRecursividad.vcxproj", "{B7175751-3868-4A49-9D40-FF39678CAD83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7175751-3868-4A49-9D40-FF39678CAD83}.Debug|x64.ActiveCfg = Debug|x64
+		{B7175751-3868-4A49-9D40-FF39678CAD83}.Debug|x64.Build.0 = Debug|x64
+		{B7175751-3868-4A49-9D40-FF39678CAD83}.Debug|x86.ActiveCfg = Debug|Win32
+		{B7175751-3868-4A49-9D40-FF39678CAD83}.Debug|x86.Build.0 = Debug|Win32
+		{B7175751-3868-4A49-9D40-FF39678CAD83}.Release|x64.ActiveCfg = Release|x64
+		{B7175751-3868-4A49-9D40-FF39678CAD83}.Release|x64.Build.0 = Release|x64
+		{B7175751-3868-4A49-9D40-FF39678CAD83}.Release|x86.ActiveCfg = Release|Win32
+		{B7175751-3868-4A49-9D40-FF39678CAD83}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62096C25-D2B2-42CD-BBB4-6477D10D8786}
+	EndGlobalSection
+EndGlobal
